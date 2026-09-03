@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+node_modules/
+dist/
+data/*.sqlite3
+data/kilter/
+data/sample/*.csv
+data/sample/*.json
+!data/sample/.gitkeep
+.DS_Store
+frontend/scripts/screenshot-*.png
