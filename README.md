@@ -1,4 +1,4 @@
-# Kilter Beta AI
+# Kilter Climbing Beta AI
 
 Phase 1 of a climbing beta-analysis tool: given a Kilter Board climb (a set
 of holds + a wall angle), generate a heuristic, physically-motivated hand/foot
